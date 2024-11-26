@@ -1,4 +1,3 @@
-# ElasticManip
 # Output Feedback Control of a Piezoelectric Robotic Manipulator
 
 ## Description
@@ -42,7 +41,13 @@ To run the simulations, ensure the following are installed:
 
 ## Citation
 1. If you use this repository or find it helpful, please cite the corresponding paper once published:
-   Flores, G., Rakotondrabe, M. "Output feedback control of a piezoelectric robotic manipulator during the characterization of an object exhibiting nonlinear viscoelastic deformation." Nonlinear Dynamics, Springer.
+
+  <code>@article{ElasticManip:2024,
+  author={Gerardo Flores and Micky Rakotondrabe},
+  journal={Nonlinear Dynamics},
+  title={Output feedback control of a piezoelectric robotic manipulator during the characterization of an object exhibiting nonlinear viscoelastic deformation}, 
+  year={2024}
+  }</code>
 
 ---
 
