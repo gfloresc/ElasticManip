@@ -26,9 +26,6 @@ This repository includes:
 To run the simulations, ensure the following are installed:
 - **MATLAB** (R2020a or newer recommended)
 - **Simulink**
-- Toolboxes:
-  - Control System Toolbox
-  - Simscape (optional, if used in the models)
 
 ---
 
